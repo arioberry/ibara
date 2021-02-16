@@ -83,7 +83,7 @@
             box-sizing:border-box;
             position: relative;
             border: solid 3px #999966;
-            background: repeating-linear-gradient(0deg,#000000 0,#000000 5px,rgb(22, 22, 22) 5px,rgb(22, 22, 22) 10px);
+            background: repeating-linear-gradient(0deg,#000000 0,#000000 5px,rgb(15, 15, 15) 5px,rgb(15, 15, 15) 10px);
         }
 
         .main {
